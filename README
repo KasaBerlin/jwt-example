@@ -8,3 +8,6 @@ node app.js
 ```
 
 Then browse to [http://localhost:3000](http://localhost:3000).
+
+https://jwt.io/
+https://auth0.com/
